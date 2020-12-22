@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Text Controls</string>
+    <string name="TextView_name">American Military University</string>
+    <string name="EditText_hint">Enter Your Name</string>
+    <string name="MultiAutocompletionView_Hint">Professor Name: Last, First</string>
+    <string name="AutoCompleteTextView_Hint">Enter Class Code, Starts with EN</string>
+</resources>
